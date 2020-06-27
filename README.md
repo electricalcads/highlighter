@@ -1,1 +1,1 @@
-#Javascript syntax highlighter
+Javascript syntax highlighter
